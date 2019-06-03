@@ -24,7 +24,11 @@ public class testOne {
 
     Zi zi3 = (Zi) zi2;
     zi3.methzi();
-
+    DouDIZhu dou = new DouDIZhu();
+    dou.p1 = "周润发";
+    dou.p2 = "刘德华";
+    dou.p3 = "周星驰";
+    dou.start();
     }
 
 }
