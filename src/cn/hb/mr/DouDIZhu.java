@@ -5,11 +5,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class DouDIZhu {
-    String  p1;
-    String  p2;
-    String  p3;
 
-    public  void start() {
+
+    public  void start(String p1,String p2,String p3) {
         ArrayList<String> poker = new ArrayList<>();
         String [] colors = { "♠","♥","♣","♦"};
         String [] numbers = {"2","A","K","Q","J","10","9","8","7","6","5","4","3"};
