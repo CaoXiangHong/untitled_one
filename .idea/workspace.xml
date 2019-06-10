@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b12cf9f-3a10-4ba8-ad9a-a586ae10715f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mariadb_java_client_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hb/mr/jdbcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hb/mr/jdbcTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hb/mr/socketSvr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hb/mr/socketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/hb/mr/fileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/hb/mr/fileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled_one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled_one.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,28 +28,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/Fu.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/testOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="558">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/testOne.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/fileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="144">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/memo2File.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/propertiesDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/jdbcTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/fileTest.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/jdbcTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/DriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3773">
+              <caret line="688" column="14" selection-start-line="688" selection-start-column="14" selection-end-line="688" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -58,9 +106,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/socketTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/DouDIZhu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="252">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,8 +163,15 @@
         <option value="$PROJECT_DIR$/src/cn/hb/mr/Demo01DataType.java" />
         <option value="$PROJECT_DIR$/src/cn/hb/mr/testMain.java" />
         <option value="$PROJECT_DIR$/src/cn/hb/mr/DouDIZhu.java" />
-        <option value="$PROJECT_DIR$/src/cn/hb/mr/testOne.java" />
         <option value="$PROJECT_DIR$/src/cn/hb/mr/fileTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/testOne.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/memo2File.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/propertesDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/propertiesDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/socketTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/socketSvr.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/jdbcTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/hb/mr/jdbcTest2.java" />
       </list>
     </option>
   </component>
@@ -117,12 +184,14 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="243" />
-    <option name="y" value="237" />
-    <option name="width" value="1310" />
-    <option name="height" value="980" />
+    <option name="x" value="21" />
+    <option name="y" value="20" />
+    <option name="width" value="1923" />
+    <option name="height" value="1104" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -139,13 +208,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="untitled_one" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled_one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled_one" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled_one" type="b2602c69:ProjectViewProjectNode" />
@@ -166,6 +239,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,9 +264,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.fileTest">
-    <configuration name="DouDIZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.DouDIZhu" />
+  <component name="RunManager" selected="Application.jdbcTest">
+    <configuration name="jdbcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.jdbcTest" />
       <module name="untitled_one" />
       <extension name="coverage">
         <pattern>
@@ -204,8 +278,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.fileTest" />
+    <configuration name="memo2File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.memo2File" />
       <module name="untitled_one" />
       <extension name="coverage">
         <pattern>
@@ -217,8 +291,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.fxTest" />
+    <configuration name="propertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.propertiesDemo" />
       <module name="untitled_one" />
       <extension name="coverage">
         <pattern>
@@ -230,8 +304,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.testMain" />
+    <configuration name="socketSvr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.socketSvr" />
       <module name="untitled_one" />
       <extension name="coverage">
         <pattern>
@@ -243,8 +317,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.testOne" />
+    <configuration name="socketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hb.mr.socketTest" />
       <module name="untitled_one" />
       <extension name="coverage">
         <pattern>
@@ -321,11 +395,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fileTest" />
-        <item itemvalue="Application.testOne" />
-        <item itemvalue="Application.testMain" />
-        <item itemvalue="Application.fxTest" />
-        <item itemvalue="Application.DouDIZhu" />
+        <item itemvalue="Application.jdbcTest" />
+        <item itemvalue="Application.socketTest" />
+        <item itemvalue="Application.socketSvr" />
+        <item itemvalue="Application.propertiesDemo" />
+        <item itemvalue="Application.memo2File" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +428,11 @@
       <workItem from="1559391620411" duration="2208000" />
       <workItem from="1559521088334" duration="11903000" />
       <workItem from="1559552761693" duration="708000" />
-      <workItem from="1559611193548" duration="15308000" />
+      <workItem from="1559611193548" duration="15376000" />
+      <workItem from="1559694210681" duration="9927000" />
+      <workItem from="1559802227607" duration="5291000" />
+      <workItem from="1560126349289" duration="6802000" />
+      <workItem from="1560146255880" duration="9266000" />
     </task>
     <task id="LOCAL-00001" summary="第一次使用Github.">
       <created>1559392317321</created>
@@ -391,17 +469,45 @@
       <option name="project" value="LOCAL" />
       <updated>1559633395620</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="学习了文件类\递归的应用1">
+      <created>1559642630527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559642630527</updated>
+    </task>
+    <task id="LOCAL-00007" summary="学习了文件类\递归的应用1">
+      <created>1559642654249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559642654249</updated>
+    </task>
+    <task id="LOCAL-00008" summary="学习了文件类\递归的应用2">
+      <created>1559728891864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559728891864</updated>
+    </task>
+    <task id="LOCAL-00009" summary="学习Properties流应用">
+      <created>1559814501286</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559814501286</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66962000" />
+    <option name="totallyTimeSpent" value="98316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18297587" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19369973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -412,8 +518,8 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.30169973" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.28328612" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42351276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -423,7 +529,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.22521247" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3045326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,7 +548,10 @@
     <MESSAGE value="第一次使用Github." />
     <MESSAGE value="斗地主变成普通类，由主程序调用." />
     <MESSAGE value="学习了文件类\递归的应用，." />
-    <option name="LAST_COMMIT_MESSAGE" value="学习了文件类\递归的应用，." />
+    <MESSAGE value="学习了文件类\递归的应用1" />
+    <MESSAGE value="学习了文件类\递归的应用2" />
+    <MESSAGE value="学习Properties流应用" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习Properties流应用" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -515,6 +624,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/testOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/fileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/memo2File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/propertiesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/testMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -522,9 +665,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/socketSvr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/socketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/DouDIZhu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="252">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -532,17 +695,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/testOne.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="3773">
+          <caret line="688" column="14" selection-start-line="688" selection-start-column="14" selection-end-line="688" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/fileTest.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/jdbcTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="36">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hb/mr/jdbcTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
