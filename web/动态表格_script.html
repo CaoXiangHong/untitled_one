@@ -81,13 +81,16 @@
         var td_a = document.createElement("td");
         var ele_a = document.createElement("a");
         var text_a = document.createTextNode("删除");
-        ele_a.setAttribute("href","javascript:void(0);");
-        ele_a.setAttribute("onclick","delTr(this);");
+        //ele_a.href="javascript:void(0);";
+        //ele_a.innerText="删除";
 
-        //ele_a.setAttribute("onclick","delTr(this);");
+         ele_a.setAttribute("href","javascript:void(0);");
+         ele_a.setAttribute("onclick","delTr(this);");
+         //alert(ele_a);
+         ele_a.appendChild(text_a);
 
         td_a.appendChild(ele_a)
-        td_a.appendChild(text_a);
+
 
 
         var tr = document.createElement("tr");
