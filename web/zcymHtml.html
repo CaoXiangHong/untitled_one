@@ -95,6 +95,14 @@
             border:1px solid #ffd026;
         }
     </style>
+
+    <script>
+        var trs = document.getElementsByName("yzm");
+        for(i=0,i<trs.length,i++){
+            document.write(trs.item(i) +'');
+        }
+        document.write("<p>怎么找不到</p>")
+    </script>
 </head>
 <body>
 
@@ -155,5 +163,6 @@
         <p>已有账号？<a href="https://www.w3cschool.cn">立即登录</a></p>
     </div>
 </div>
+
 </body>
 </html>
